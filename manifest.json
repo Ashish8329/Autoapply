@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "kratrim",
+    "version": "1.0.0",
+    "description": "Ultimate Wepan to get quick job.",
+    "icons": {
+      "48": "assets/img/icon.png",
+      "128": "assets/img/icon.png"
+    }
+}
